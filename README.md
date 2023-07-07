@@ -1,14 +1,5 @@
 # Phishing URL Detection 
 ![image](image.jpeg)
-![image](https://user-images.githubusercontent.com/79131292/144742785-d183f50a-52d6-4296-a43a-90a1ee3502d8.png)
-
-## Table of Content
-  * [Introduction](#introduction)
-  * [Installation](#installation)
-  * [Directory Tree](#directory-tree)
-  * [Result](#result)
-  * [Conclusion](#conclusion)
-
 
 ## Introduction
 
